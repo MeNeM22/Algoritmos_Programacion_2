@@ -1,0 +1,54 @@
+{
+  "tests": [
+    {
+      "name": "Funciones",
+      "setup": "",
+      "run": "go test -v ./ejercicios/funciones/...",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Estructuras repetitivas",
+      "setup": "",
+      "run": "go test -v ./ejercicios/estructuras_repetitivas/...",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Arreglos",
+      "setup": "",
+      "run": "go test -v ./ejercicios/arreglos/...",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Punteros",
+      "setup": "",
+      "run": "go test -v ./ejercicios/punteros/...",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Estructuras e Interfaces",
+      "setup": "",
+      "run": "go test -v ./ejercicios/estructuras_interfaces/...",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 2
+    }
+  ]
+}
